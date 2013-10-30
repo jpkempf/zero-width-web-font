@@ -1,4 +1,4 @@
-zero-width-web-font
+Using Adobe Blank for better inline-block grids
 ===================
 
 Inline-block grids without the need for any weird comment hacks are possible if you use Adobe Blank, a special-purpose font that covers all Unicode code points and renders them using a non-spacing and non-marking glyph.
