@@ -6,7 +6,7 @@ Inline-block grids without the need for any weird comment hacks are possible if 
 All credit should go to these guys:
 
 * [@ken_lunde](http://twitter.com/ken_lunde) from Adobe for creating the font
-* [@ScottKellum](http://www.twitter.com/ScottKellum) for making me aware of its uses.
+* [@ScottKellum](http://www.twitter.com/ScottKellum) for making me aware of its uses
 
 So what now?
 
