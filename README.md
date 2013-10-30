@@ -5,8 +5,8 @@ Inline-block grids without the need for any weird comment hacks are possible if 
 
 All credit should go to these guys:
 
-* [@ken_lunde](http://twitter.com/@ken_lunde) from Adobe for creating the font
-* [@ScottKellum](http://www.twitter.com/@ScottKellum) for making me aware of its uses.
+* [@ken_lunde](http://twitter.com/ken_lunde) from Adobe for creating the font
+* [@ScottKellum](http://www.twitter.com/ScottKellum) for making me aware of its uses.
 
 So what now?
 
@@ -15,4 +15,4 @@ So what now?
 * [Download Adobe Blank from it's official source](http://sourceforge.net/projects/adobe-blank.adobe/files/)
 * [Check out the font's source code](https://github.com/adobe-fonts/adobe-blank/)
 
-[Click here]() or clone this repo to see the effect for yourself.
+[Click here](http://jpkempf.github.io/zero-width-web-font) or clone this repo to see the effect for yourself.
