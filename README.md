@@ -16,3 +16,5 @@ So what now?
 * [Check out the font's source code](https://github.com/adobe-fonts/adobe-blank/)
 
 [Click here](http://jpkempf.github.io/zero-width-web-font) or clone this repo to see the effect for yourself.
+
+Update 2014/02/18: [Check out this pen for an alternative solution with  JavaScript.](http://codepen.io/jpkempf/details/AhDgK)
